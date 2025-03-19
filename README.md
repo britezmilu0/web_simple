@@ -5,7 +5,7 @@ Sitio web simple, contiene un caja de texto que al presionar la tecla Enter, ren
 # Instalación y Uso  
 1- Clona el repositorio:  
 
-git clone https://github.com/
+git clone https://github.com/britezmilu0/web_simple.git
 
 2- cd web_simple
 # Instalar dependencia 
