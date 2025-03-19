@@ -1,6 +1,6 @@
 # web_simple
 
-Sitio web simple, contiene un caja de texto que al presionar la tecla Enter, renderiza una ventana emergente con el texto cargado en la caja.
+Sitio web simple, contiene un caja de texto que al presionar la tecla Enter, renderiza una ventana emergente con el texto cargado en la caja y un botón que al presionar cambia de colores la caja y el texto. 
 
 # Instalación y Uso  
 1- Clona el repositorio:  
